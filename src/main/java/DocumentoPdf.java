@@ -1,4 +1,4 @@
-public class DocumentoPdf {
+public class DocumentoPdf implements Documento{
     protected ComponentePdf herramientaPdf = new ComponentePdf();
     public void setContenido(String contenido)
     {
