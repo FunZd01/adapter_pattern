@@ -1,0 +1,5 @@
+#directories
+/.idea/
+/src/test
+#fichers
+*.iml
